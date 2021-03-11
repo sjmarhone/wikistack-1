@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon /Users/momack/FullStack/2103/wikistack/index.js"
+    "start": "nodemon /Users/jeanetteabell/Sandbox/wikistackLab/wikistack/app.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +15,7 @@
     "html-template-tag": "^3.2.0",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.7",
-    "pg": "^8.5.1"
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
   }
 }
